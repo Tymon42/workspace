@@ -8,6 +8,11 @@ tools that I use
 - iPad Pro (2018) + Apple Pencil
 - AOC 27" Monitor
 
+## OS
+- MacOS Latest
+- Ubuntu 20.02
+- Windows 11H22
+
 ## Software & Website
 
 ### Coding
