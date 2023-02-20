@@ -3,6 +3,7 @@ tools that I use
 
 ## Hardware
 
+- Macbook Air M2
 - Lenovo ideaPad Air 14 （2020）
 - iPad Pro (2018) + Apple Pencil
 - AOC 27" Monitor
@@ -12,7 +13,18 @@ tools that I use
 ### Coding
 
 - Visual Studio Code
+  - vim plugin
+  - remote ssh
 - zsh
+- warp
+
+### Noting
+
+- Evernote (Chinese edition)
+- Feishu (For team work)
+- GoodNote (For study on class)
+- Notes on iOS (For ideas)
+- Finder(on MacOS) and Files(on iOS)
 
 ### Drawing
 
@@ -20,8 +32,9 @@ tools that I use
 - Procreate on iPad  
 
 ### Streaming and Video Editing
+- OBS
+- Final Cut Pro
 
 ### Entertainment
 
-- Spotify
 - NetEase Cloud Music
